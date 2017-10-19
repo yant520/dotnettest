@@ -10,7 +10,6 @@ namespace dotnettest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("New");
             Console.WriteLine("Test");
         }
     }
